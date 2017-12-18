@@ -4,7 +4,7 @@
   <groupId>org.rns.training</groupId>
   <artifactId>maven-training</artifactId>
   <packaging>jar</packaging>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.5-SNAPSHOT</version>
   <name>maven-training</name>
   <url>http://maven.apache.org</url>
   
